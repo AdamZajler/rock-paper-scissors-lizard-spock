@@ -1,0 +1,1 @@
+This project is simple Next.js starter for building my applications
